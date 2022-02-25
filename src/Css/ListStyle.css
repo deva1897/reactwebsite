@@ -41,4 +41,15 @@ html{
     width:150px;
 }
 }
+@media screen and (max-width:768px){
+.logocontainer{
+    margin-top: 5px;
+}
+}
+@media screen and (max-width:1370px){
+    .logocontainer{
+        margin-top: 5px;
+    }
+    }
+        
     
